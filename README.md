@@ -1,2 +1,3 @@
 # MeetTheBeauty
-Activi
+Activity Promoter for Meet the Beauty
+=====================================
